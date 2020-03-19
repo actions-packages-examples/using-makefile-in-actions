@@ -1,7 +1,7 @@
 default:
-        echo "hello"
+    echo "hello"
 
 changelog:
 ifeq (1,1)
-        echo "one is one"
+    echo "one is one"
 endif
