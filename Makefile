@@ -1,7 +1,7 @@
 default:
-        echo "RAN THE DEFAULT COMMAND"
+        echo "hello"
 
 changelog:
 ifeq (1,1)
-        echo "one is equal to one"
+        echo "one is one"
 endif
